@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdula</h1>
 <h3 align="center">A passionate frontend developer from Dagestan</h3>
 
-- 🔭 I’m currently working on **next-pizza**
+- 🔭 I’m currently working on **Network Social**
 
 - 🌱 I’m currently learning **Next js, Nest js**
 
